@@ -6,4 +6,6 @@ public class Tarea {
         this.tarea=tarea;
         this.descripcionTarea=descripcionTarea;
     }
+
+
 }
